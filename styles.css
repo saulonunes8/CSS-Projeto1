@@ -1,0 +1,83 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.logo-image {
+    width: 568px;
+    height: 500px;
+    margin-left: 125px;
+    display: inline-block;
+}
+
+header {
+    margin: 44px 0 144px 76px;
+}
+
+.link-header {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #989D9C;
+    cursor: pointer;
+    margin-right: 23px;
+}
+
+#button-login {
+    width: 130px;
+    height: 41px;
+    border-radius: 21px;
+    background-color: #665AE1;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29.26px;
+    cursor: pointer;
+    border: none;
+}
+
+div {
+    display: inline-block;
+    text-align:justify;
+    margin-left: 86px;
+}
+h1 {
+    font-weight: 900;
+    font-size: 100px;
+    line-height: 121.9px;
+    color: #515151;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 58px;
+    line-height: 70.7px;
+    color: #515151;
+    
+}
+p {
+font-weight: 400;
+font-size: 24px;
+line-height: 29.26px;
+color: #848484;
+width: 515px;
+margin: 32px 0 65px 0;
+
+
+}
+
+button {
+    width: 239px;
+    height: 64px;
+    border-radius: 50px;
+    background-color: #ADFF00;
+    font-weight: 700;
+    font-size: 28px;
+    color: #000000;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0px 4px 4px 0px #00000040;
+
+}
